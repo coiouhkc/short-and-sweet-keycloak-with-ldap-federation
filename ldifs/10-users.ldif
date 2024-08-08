@@ -1,0 +1,13 @@
+dn: cn=user01,ou=users,dc=example,dc=org
+objectClass: person
+objectClass: inetOrgPerson
+cn: user01
+sn: user01
+userPassword: secret
+
+dn: cn=user02,ou=users,dc=example,dc=org
+objectClass: person
+objectClass: inetOrgPerson
+cn: user02
+sn: user02
+userPassword: secret
